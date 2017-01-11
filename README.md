@@ -3,30 +3,34 @@
 ## Roster
 ![](https://d3vv6lp55qjaqc.cloudfront.net/items/220B0V0H3c041K2p251Z/google-sheets-16.png?X-CloudApp-Visitor-Id=1094421) [Class Roster](https://docs.google.com/spreadsheets/d/1nw7IszG82-yBjgojeC6F2NuT_r2QU1z0M1-XlFA7vhg/edit?usp=sharing)
 
-- Days: MW 1:00 p.m. - 2:20 p.m. 
-- Location: BO 320 
-- Final Exam: Monday Dec 12th, 3:30 p.m. - 5:30 p.m.
-- Dates: August 29 - Dec 9
+- Days: MWF 1:00 p.m. - 2:20 p.m. 
+- Location: BO 209 
+- Final Exam: Monday May 8th, 3:30 p.m. - 5:30 p.m.
+- Dates: January 17 - May 5
 - Holidays: 
-    - Thanksgiving November 23-25 
-- Last Day for “W” @ 4:00 p.m. : October 31
+    - Spring Break March 13-17
+    - Easter (Holiday) Break April 13-14
+- Last Day for “W” @ 4:00 p.m. : March 27
+
+
+## Book:
+
+- [Html Version](http://opendatastructures.org/ods-cpp/)
+- [PDF Version](http://opendatastructures.org/ods-cpp.pdf)
 
 
 ## Course Topics:
 
-- Abstraction
-- OOP Design
-- Classes & Methods
-- Encapsulation
-- Polymorphism
-- Overloading
-- Abstract Classes
-- Inheritence and Substitution
-- Introduction to UML
-- UML Relationships 
-- Subclasses and Subtypes
-- Static and Dynamic Behavior
-
+- Arrays (1D and 2D)
+- Functions
+- Parameter Passing (value vs reference)
+- Classes
+- Lists
+- Array based vs List based structures
+- Basic Data Structures
+    - Stacks 
+    - Queues
+    
 ## Grading:	
 
 | Categories                     |     |  Grade   |          | 
